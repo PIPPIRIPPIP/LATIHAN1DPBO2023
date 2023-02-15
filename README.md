@@ -18,7 +18,7 @@ Program yang saya buat ini dibangun menggunakan dua kelas, yaitu:
 
 Cara kerja dari program yang saya buat ini adalah ketika program dijalankan maka akan muncul menu tampilan fitur yang akan digunakan oleh user. Berikut contohnya:
 
-![fitur menu](/CPP/Screenshot/CPP-5.png)
+![fitur menu](/CPP/Screenshoot/CPP-5.png)
 
 Kemudian user memasukkan kode fitur sesuai dengan yang tertera di layar.
 
@@ -33,7 +33,7 @@ Program ini akan terus berjalan sampai user memilih untuk keluar dari program de
 ## Dokumentasi
 
 - Program CPP, Python, dan Java
-  ![program cpp](/CPP/Screenshot/tes.png)
+  ![program cpp](/CPP/Screenshoot/tes.png)
 
 - Program PHP
   ![program php](/PHP/Screenshot/PHP.png)
